@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/QRCode">
+        <file>my_blog.jpg</file>
+        <file>my_sub.jpg</file>
+        <file>my_wechat.jpg</file>
+        <file>blue.png</file>
+        <file>green.png</file>
+        <file>red.png</file>
+    </qresource>
+</RCC>
